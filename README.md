@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project
+Primer proyecto de theodinproject, una sencilla pagina web de recetas.
